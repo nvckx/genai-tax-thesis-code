@@ -6,8 +6,8 @@ Python Scripts – Master’s Thesis
 This repository contains the Python scripts used for data preparation and statistical analysis in my Master’s Thesis on the adoption of Generative AI in corporate tax functions.
 
 📂 Repository Contents
-preprocess_to_scores.py
 
+preprocess_to_scores.py
 * Purpose: Preprocesses the raw survey data.
 * Main tasks:
 - Cleaning survey responses (handling missing values, recoding Likert scales).
