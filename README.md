@@ -10,18 +10,18 @@ This repository contains the Python scripts used for data preparation and statis
 preprocess_to_scores.py
 * Purpose: Preprocesses the raw survey data.
 * Main tasks:
-- Cleaning survey responses (handling missing values, recoding Likert scales).
-- Calculating construct scores (e.g., technological readiness, organizational readiness, environmental readiness, trust, adoption).
-- Exporting a cleaned dataset ready for analysis.
+  - Cleaning survey responses (handling missing values, recoding Likert scales).
+  - Calculating construct scores (e.g., technological readiness, organizational readiness, environmental readiness, trust, adoption).
+  - Exporting a cleaned dataset ready for analysis.
 
 Appendix_D_analysis.py
 * Purpose: Conducts all statistical analyses used in the thesis.
 * Main tasks:
-- Reliability tests (Cronbach’s alpha).
-- Normality checks and distribution assessments.
-- Group comparisons (ANOVA, Kruskal-Wallis, Mann-Whitney U).
-- Correlation analysis and regression models.
-- Generating descriptive statistics tables and visualizations (e.g., boxplots, heatmaps, regression plots).
+  - Reliability tests (Cronbach’s alpha).
+  - Normality checks and distribution assessments.
+  - Group comparisons (ANOVA, Kruskal-Wallis, Mann-Whitney U).
+  - Correlation analysis and regression models.
+  - Generating descriptive statistics tables and visualizations (e.g., boxplots, heatmaps, regression plots).
 
 🔍 Reproducibility
 * Both scripts are designed to be reproducible.
